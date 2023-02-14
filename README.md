@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rcepedaraza
 - 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and Full-Stack Developing
 - 💞️ I’m looking to collaborate on AI related projects
 - 📫 How to reach me ricardo.cepeda.raza@gmail.com
 
